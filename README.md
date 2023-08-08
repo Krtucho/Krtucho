@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krtucho</h1>
-<h3 align="center">Student at the University of Havana @matcom. Full Stack Developer, Angularjs, .Net Core, .Net Framework and Blockchain enthusiast.</h3>
+<h3 align="center">Student at the University of Havana @matcom. Full Stack Developer, Angular, .Net Core, .Net Framework and Blockchain enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krtucho&label=Profile%20views&color=0e75b6&style=flat" alt="krtucho" /> </p>
 
