@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krtucho</h1>
-<h3 align="center">Bachelor in Computer Science at the University of Havana @matcom | Full Stack Developer, Angular, .Net Core, .Net Framework | Machine Learning Newbie | Blockchain enthusiast.</h3>
+<h3 align="center">Bachelor in Computer Science at the University of Havana @matcom | Full Stack Developer, React, Nestjs, .Net Framework | Machine Learning Newbie | Blockchain enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krtucho&label=Profile%20views&color=0e75b6&style=flat" alt="krtucho" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Solidity, French**
+- 🌱 I’m currently learning **React Native, Solidity, French**
 
-- 💬 Ask me about **Angular, C#, Javascript, HTML, CSS, Python, Blockchain**
+- 💬 Ask me about **React, C#, Typescript, HTML, CSS, Python, Blockchain**
 
 - 📫 How to reach me **krtucho98@gmail.com**
 
